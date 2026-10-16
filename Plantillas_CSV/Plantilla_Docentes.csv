@@ -1,0 +1,11 @@
+﻿Codigo,Nombre,Apellido,DNI,Clase,Categoria,Departamento,Correo
+DOC001,ALAN,TURING,12345678,TP 20 hrs.,Principal,Computacion Cientifica,alan.turing@unmsm.edu.pe
+DOC002,ADA,LOVELACE,87654321,TP 20 hrs.,Principal,Computacion Cientifica,ada.lovelace@unmsm.edu.pe
+DOC003,MARIE,CURIE,11223344,TP 20 hrs.,Asociado,Matematica,marie.curie@unmsm.edu.pe
+DOC004,ALBERT,EINSTEIN,44332211,TP 40 hrs.,Principal,Matematica,albert.einstein@unmsm.edu.pe
+DOC005,ISAAC,NEWTON,55667788,TP 40 hrs.,Asociado,Matematica,isaac.newton@unmsm.edu.pe
+DOC006,NIKOLA,TESLA,88776655,TP 20 hrs.,Principal,Investigacion Operativa,nikola.tesla@unmsm.edu.pe
+DOC007,GRACE,HOPPER,99887766,TP 40 hrs.,Asociado,Computacion Cientifica,grace.hopper@unmsm.edu.pe
+DOC008,STEPHEN,HAWKING,66778899,TP 40 hrs.,Principal,Estadistica,stephen.hawking@unmsm.edu.pe
+DOC009,RICHARD,FEYNMAN,22334455,TP 20 hrs.,Asociado,Estadistica,richard.feynman@unmsm.edu.pe
+DOC010,CARL,SAGAN,55443322,TP 20 hrs.,Principal,Investigacion Operativa,carl.sagan@unmsm.edu.pe

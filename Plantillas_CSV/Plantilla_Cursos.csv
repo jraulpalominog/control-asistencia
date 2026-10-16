@@ -1,0 +1,11 @@
+﻿Codigo,Nombre,Creditos,Tipo,Escuela,MallaCurricular
+MAT101,CÁLCULO I,4,O,Computación Científica,2026
+MAT102,CÁLCULO II,4,O,Matemática,2018
+FIS101,FÍSICA I,4,O,Estadística,2023
+INF101,PROGRAMACIÓN BÁSICA,5,O,Investigación Operativa,2026
+INF201,BASE DE DATOS,5,O,Computación Científica,2023
+INF301,INTELIGENCIA ARTIFICIAL,6,E,Estadística,2026
+INF102,ESTRUCTURAS DE DATOS,5,O,Matemática,2018
+INF202,SISTEMAS OPERATIVOS,4,O,Investigación Operativa,2023
+INF302,REDES DE COMPUTADORAS,4,E,Computación Científica,2018
+INF401,COMPUTACIÓN CUÁNTICA,6,E,Matemática,2026
